@@ -1,4 +1,4 @@
-module github.com/alexmj/p2
+module github.com/alex-mj/p2
 
 go 1.17
 
